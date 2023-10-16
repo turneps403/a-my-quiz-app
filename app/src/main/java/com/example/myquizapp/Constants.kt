@@ -13,7 +13,7 @@ object Constants {
             "Mongolia",
             "Burjatia",
             "Japan",
-            1
+            2
         )
         questionList.add(q1)
 
@@ -26,7 +26,7 @@ object Constants {
             "Uganda",
             "Brazil",
             "Britan",
-            1
+            3
         )
         questionList.add(q2)
 
